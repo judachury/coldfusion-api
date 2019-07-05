@@ -1,4 +1,4 @@
-This are components to connect to different APIs and Internal handlers
+These are components to connect to different APIs and Internal handlers
 
 1- CampaignMonitor: send transactional emails usign Campaign Monitor
 2- Database: connect to a db datasource
